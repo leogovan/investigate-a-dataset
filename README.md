@@ -6,7 +6,7 @@
 
 #### Start up the project:
 * `cd /Users/leogovan/Documents/Udacity/DA-Nano/investigate-a-dataset`
-* `source activate investigate_dataset_env`
+* `source activate investigate_dataset`
 * `jupyter notebook`
 * `git push -u origin master`
 
