@@ -8,8 +8,12 @@
 * `cd /Users/leogovan/Documents/Udacity/DA-Nano/investigate-a-dataset`
 * `source activate investigate_dataset`
 * `jupyter notebook`
-* `git push -u origin master`
 
 #### Close down the project:
 * `ctrl+c`
 * `source deactivate`
+
+#### Commit changes
+* `git add .`
+* `git commit -m ""`
+* `git push -u origin master`
